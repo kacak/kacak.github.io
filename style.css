@@ -59,6 +59,7 @@ nav ul {
 	border-radius: 10px;  
 	list-style: none;
 	position: relative;
+	margin: 10px;
 }
 
 nav ul:after {
