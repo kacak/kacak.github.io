@@ -7,6 +7,10 @@ body {
 	background: #ecebeb;
 }
 
+#container {
+    padding: 0 10px 0 10px;
+}
+
 #test {
 	margin-top: 20px;
 	width: 738px;
