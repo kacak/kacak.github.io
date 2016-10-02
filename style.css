@@ -19,9 +19,9 @@ body {
 }
 
 #logo-block {
-	display: block;
-	height: 80px;
-
+    display: block;
+    height: 74px;
+    border-bottom: solid 0.5px grey;
 }
 
 .logotext1 {
